@@ -1,0 +1,48 @@
+
+.sideBar{
+    background-color: rgba(15, 15, 56, 0.925);
+    color: white;
+    width: 25%;
+}
+
+.head1{
+    
+    font-size: 19px;
+}
+.head2{
+    padding: 10px;
+}
+.icon2{
+    margin-bottom: -5px;
+}
+span{
+    padding-left:9px;
+}
+.navBelow{
+    padding: 0 20px 0 20px;
+    border: 2px solid red;
+    margin-top: 30px;
+    line-height: 3.3;
+}
+.image1{
+    width: 9vh;
+    padding: 10px;
+}
+.icon1{
+    color: white;
+}
+.infoName{
+    border: 2px solid green;
+    display: flex;
+    margin-top: 120px;
+}
+.Nav{
+    display: flex;
+}
+.imageBox1{
+   width: 12vh;
+}
+.sideBox{
+    border: 2px solid green;
+    display: flex;
+}
